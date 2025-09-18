@@ -19,3 +19,5 @@ It implements a **Rock Paper Scissors game** in C++, where the player competes a
 ```bash
 g++ main.cpp -o rps
 ./rps
+[CPE Assignment 2 - Computer Engineering Case Study - Alae Hajjaj - Spring 2025.pdf](https://github.com/user-attachments/files/22407423/CPE.Assignment.2.-.Computer.Engineering.Case.Study.-.Alae.Hajjaj.-.Spring.2025.pdf)
+[main.cpp](https://github.com/user-attachments/files/22407428/main.cpp)
