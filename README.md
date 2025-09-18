@@ -5,6 +5,7 @@ This repository contains assignments and projects from my coursework at **NYU Ab
 ## Courses
 - **Computer Programming for Engineers (CPE)**
   - Assignment 1: Beam Deflection Calculator (C++ + report)
+  - Assignment 2: rock-paper-scissors
 - **Intro to Computer Science**
   - (Projects will be added here)
 
